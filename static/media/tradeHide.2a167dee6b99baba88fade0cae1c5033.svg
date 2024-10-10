@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Vector" d="M24,0V24H0V0Z" transform="translate(873 798)" fill="none" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_484" data-name="蒙版组 484" transform="translate(-873 -798)" clip-path="url(#clip-path)">
+    <rect id="HouseSimple_Background_" data-name="HouseSimple (Background)" width="24" height="24" transform="translate(873 798)" fill="none" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="chart-square-bar" d="M6.171,3.6A2.571,2.571,0,0,0,3.6,6.171V19.029A2.571,2.571,0,0,0,6.171,21.6H19.029A2.571,2.571,0,0,0,21.6,19.029V6.171A2.571,2.571,0,0,0,19.029,3.6ZM17.743,8.743a1.286,1.286,0,1,0-2.571,0v7.714a1.286,1.286,0,0,0,2.571,0Zm-3.857,2.571a1.286,1.286,0,0,0-2.571,0v5.143a1.286,1.286,0,0,0,2.571,0Zm-3.857,3.857a1.286,1.286,0,0,0-2.571,0v1.286a1.286,1.286,0,0,0,2.571,0Z" transform="translate(872.4 797.4)" fill="#64748b" fill-rule="evenodd"/>
+  </g>
+</svg>
