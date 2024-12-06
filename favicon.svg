@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_3569" data-name="矩形 3569" width="60" height="60" transform="translate(1814 878)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_505" data-name="蒙版组 505" transform="translate(-1814 -878)" clip-path="url(#clip-path)">
+    <g id="组_218" data-name="组 218" transform="translate(892.02 552.076)">
+      <path id="路径_39" data-name="路径 39" d="M55.674,29.272a1.159,1.159,0,0,1-1.16,1.16H6.876a1.161,1.161,0,0,1-1.162-1.16V24.889a1.162,1.162,0,0,1,1.162-1.16H27.611c3.363,0,6.366-1.826,9.373-3.929S53.54,4.286,53.54,4.286a1.16,1.16,0,0,1,.974,1.789L43.35,23.729H54.514a1.16,1.16,0,0,1,1.16,1.16Z" transform="translate(921.286 322.588)" fill-rule="evenodd"/>
+      <path id="路径_40" data-name="路径 40" d="M5.714,17.588a1.159,1.159,0,0,1,1.16-1.16H54.512a1.161,1.161,0,0,1,1.162,1.16v4.383a1.162,1.162,0,0,1-1.162,1.16H33.777c-3.363,0-6.366,1.826-9.372,3.929S7.848,42.575,7.848,42.575a1.16,1.16,0,0,1-.974-1.79L18.038,23.132H6.874a1.16,1.16,0,0,1-1.16-1.16Z" transform="translate(921.286 342.399)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

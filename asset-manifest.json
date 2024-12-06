@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d713aaf6.css",
+    "main.js": "/static/js/main.f7ddea7c.js",
+    "static/css/275.0ccfc4f3.chunk.css": "/static/css/275.0ccfc4f3.chunk.css",
+    "static/js/275.beda9047.chunk.js": "/static/js/275.beda9047.chunk.js",
+    "static/css/778.bf582262.chunk.css": "/static/css/778.bf582262.chunk.css",
+    "static/js/778.b6f7e3ec.chunk.js": "/static/js/778.b6f7e3ec.chunk.js",
+    "static/css/546.e7da514a.chunk.css": "/static/css/546.e7da514a.chunk.css",
+    "static/js/546.59401943.chunk.js": "/static/js/546.59401943.chunk.js",
+    "static/css/737.00130852.chunk.css": "/static/css/737.00130852.chunk.css",
+    "static/js/737.ca95cb35.chunk.js": "/static/js/737.ca95cb35.chunk.js",
+    "static/css/870.80ba1d90.chunk.css": "/static/css/870.80ba1d90.chunk.css",
+    "static/js/870.2370d78b.chunk.js": "/static/js/870.2370d78b.chunk.js",
+    "static/css/868.80ba1d90.chunk.css": "/static/css/868.80ba1d90.chunk.css",
+    "static/js/868.c49cdaac.chunk.js": "/static/js/868.c49cdaac.chunk.js",
+    "static/js/453.529bac10.chunk.js": "/static/js/453.529bac10.chunk.js",
+    "static/js/795.c6c74f8f.chunk.js": "/static/js/795.c6c74f8f.chunk.js",
+    "static/css/670.d49e8f7c.css": "/static/css/670.d49e8f7c.css",
+    "static/js/670.9a1c7477.js": "/static/js/670.9a1c7477.js",
+    "static/js/252.4d360caf.chunk.js": "/static/js/252.4d360caf.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.2a632d338d18eee75205336e1d47ec8b.svg",
+    "static/media/investActive.svg": "/static/media/investActive.14fbc5b400f7a4297cf7a7c077200df1.svg",
+    "static/media/document.svg": "/static/media/document.6aa7b65118813c453b30049ab87a2f13.svg",
+    "static/media/tradeActive.svg": "/static/media/tradeActive.6994fb1deaae4dc7f7ac4add25f4062f.svg",
+    "static/media/tradeHide.svg": "/static/media/tradeHide.2a167dee6b99baba88fade0cae1c5033.svg",
+    "static/media/investHide.svg": "/static/media/investHide.16a5604d21654b44ef3b63f647b98619.svg",
+    "static/media/homeHide.svg": "/static/media/homeHide.a91b7171021316f0b40f548f95f499ab.svg",
+    "static/media/meActive.svg": "/static/media/meActive.6943161ee5442aeea8a079ba840360b3.svg",
+    "static/media/meHide.svg": "/static/media/meHide.451aaec4c5f499e5cd8d294bb913021c.svg",
+    "static/media/slice.svg": "/static/media/slice.0721e17038ef4fdb534793dcf60145a1.svg",
+    "static/media/homeActive.svg": "/static/media/homeActive.081a58dff9f5624c9431219de782d077.svg",
+    "index.html": "/index.html",
+    "static/media/rulecoin.svg": "/static/media/rulecoin.741bb306c8d5749967d029b29b6c33f7.svg"
+  },
+  "entrypoints": [
+    "static/css/670.d49e8f7c.css",
+    "static/js/670.9a1c7477.js",
+    "static/css/main.d713aaf6.css",
+    "static/js/main.f7ddea7c.js"
+  ]
+}
