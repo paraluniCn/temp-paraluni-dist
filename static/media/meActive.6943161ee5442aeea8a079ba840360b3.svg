@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Vector" d="M24,0V24H0V0Z" transform="translate(966 725)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_485" data-name="蒙版组 485" transform="translate(-966 -725)" clip-path="url(#clip-path)">
+    <g id="user" transform="translate(966 724.4)">
+      <path id="路径_60092" data-name="路径 60092" d="M12,10.8A3.6,3.6,0,1,0,8.4,7.2,3.6,3.6,0,0,0,12,10.8Z" fill="#2873ff"/>
+      <path id="路径_60093" data-name="路径 60093" d="M3.6,21.6a8.4,8.4,0,0,1,16.8,0Z" fill="#2873ff"/>
+    </g>
+    <rect id="HouseSimple_Background_" data-name="HouseSimple (Background)" width="24" height="24" transform="translate(966 725)" fill="none"/>
+  </g>
+</svg>
