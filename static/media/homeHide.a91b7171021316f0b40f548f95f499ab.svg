@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="HouseSimple_Background_" data-name="HouseSimple (Background)" width="24" height="24" transform="translate(685 798)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_481" data-name="蒙版组 481" transform="translate(-685 -798)" clip-path="url(#clip-path)">
+    <path id="Vector" d="M24,0V24H0V0Z" transform="translate(685 798)" fill="none"/>
+    <path id="home" d="M12.849,2.751a1.2,1.2,0,0,0-1.7,0l-8.4,8.4a1.2,1.2,0,0,0,1.7,1.7L4.8,12.5v7.9A1.2,1.2,0,0,0,6,21.6H8.4a1.2,1.2,0,0,0,1.2-1.2V18a1.2,1.2,0,0,1,1.2-1.2h2.4A1.2,1.2,0,0,1,14.4,18v2.4a1.2,1.2,0,0,0,1.2,1.2H18a1.2,1.2,0,0,0,1.2-1.2V12.5l.351.352a1.2,1.2,0,0,0,1.7-1.7Z" transform="translate(685 798)" fill="#64748b"/>
+  </g>
+</svg>

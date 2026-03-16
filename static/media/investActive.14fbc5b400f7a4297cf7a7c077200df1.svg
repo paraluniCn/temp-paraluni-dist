@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="HouseSimple_Background_" data-name="HouseSimple (Background)" width="24" height="24" transform="translate(779 725)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_482" data-name="蒙版组 482" transform="translate(-779 -725)" clip-path="url(#clip-path)">
+    <path id="Vector" d="M24,0V24H0V0Z" transform="translate(779 725)" fill="none"/>
+    <path id="路径_60094" data-name="路径 60094" d="M114.088,118.519a.568.568,0,0,1,.321.1l5.961,4.095a.532.532,0,0,1,.134.755.549.549,0,0,1-.124.123l-5.961,4.292a.568.568,0,0,1-.779-.113.532.532,0,0,1-.109-.322v-2.761h-4.873q-5.21.029-5.658-5.007c.3.307,1.621,2.12,5.658,2.12q4.037,0,4.873-.09v-2.649A.55.55,0,0,1,114.088,118.519Zm-3.729-8.31a.532.532,0,0,1,.109.322v2.761h4.873q5.21-.029,5.658,5.007c-.3-.307-1.621-2.12-5.658-2.12q-4.037,0-4.873.09v2.649a.55.55,0,0,1-.557.542.568.568,0,0,1-.321-.1l-5.961-4.095a.532.532,0,0,1-.134-.755.549.549,0,0,1,.124-.123l5.961-4.292a.568.568,0,0,1,.779.113Z" transform="translate(679 618.011)" fill="#2873ff"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <g data-name="组 23677">
+        <path data-name="矩形 3382" style="fill:transparent" d="M0 0h28v28H0z"/>
+        <g data-name="组 2071">
+            <path data-name="路径 39" d="M26.786 14.825a.489.489 0 0 1-.489.489H6.2a.49.49 0 0 1-.49-.489v-1.849a.49.49 0 0 1 .49-.489h8.75a7.144 7.144 0 0 0 3.95-1.658c1.268-.887 6.983-6.544 6.983-6.544a.489.489 0 0 1 .411.755l-4.709 7.446H26.3a.489.489 0 0 1 .489.489z" transform="translate(-2.25 -2.539)" style="fill:#fff;fill-rule:evenodd"/>
+            <path data-name="路径 40" d="M5.714 16.918a.489.489 0 0 1 .489-.489H26.3a.49.49 0 0 1 .49.489v1.849a.49.49 0 0 1-.49.489h-8.749a7.144 7.144 0 0 0-3.951 1.657c-1.268.887-6.983 6.544-6.983 6.544A.489.489 0 0 1 6.2 26.7l4.709-7.446H6.2a.489.489 0 0 1-.489-.489z" transform="translate(-2.25 -1.203)" style="fill:#fff;fill-rule:evenodd"/>
+        </g>
+    </g>
+</svg>
